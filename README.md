@@ -62,11 +62,17 @@
 
 [Apollo Client](https://www.apollographql.com/docs/react/)
 
+[React Apollo](https://github.com/apollographql/react-apollo)
+
 ### Localization
 
 [React Intl](https://github.com/yahoo/react-intl)
 
 [React Native Localize](https://github.com/react-native-community/react-native-localize)
+
+[React i18Next](https://github.com/i18next/react-i18next)
+
+[React Translate Maker](https://github.com/CherryProjects/react-translate-maker)
 
 ### SEO
 
