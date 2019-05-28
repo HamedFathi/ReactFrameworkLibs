@@ -46,9 +46,9 @@
 
 ### CSS in JS
 
-[styled-components](https://github.com/styled-components/styled-components)
+[Styled Components](https://github.com/styled-components/styled-components)
 
-[emotion](https://github.com/emotion-js/emotion)
+[Emotion](https://github.com/emotion-js/emotion)
 
 ### Testing
 
@@ -69,6 +69,10 @@
 [React Native Localize](https://github.com/react-native-community/react-native-localize)
 
 ### SEO
+
+[React Meta Tags](https://github.com/s-yadav/react-meta-tags)
+
+[React Helmet](https://github.com/nfl/react-helmet)
 
 ### Authentication
 
