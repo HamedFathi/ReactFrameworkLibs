@@ -98,6 +98,8 @@
 
 [Axios Mock Adapter](https://github.com/ctimmerm/axios-mock-adapter)
 
+[Axios Debug Log](https://github.com/Gerhut/axios-debug-log)
+
 ### Non-UI
 
 [Redux Observable](https://github.com/redux-observable/redux-observable)
