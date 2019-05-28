@@ -1,20 +1,3 @@
-
-[redux-observable](https://redux-observable.js.org/)
-
-[Redux Form](https://redux-form.com)
-
-[Formik](https://github.com/jaredpalmer/formik)
-
-[glamor](https://github.com/threepointone/glamor)
-
-[nano-css](https://github.com/streamich/nano-css)
-
-[React DnD](https://github.com/react-dnd/react-dnd)
-
-[react-virtualized](https://github.com/bvaughn/react-virtualized)
-
-
-
 ### Scaffolding
 
 [Create React App](https://github.com/facebook/create-react-app)
@@ -89,6 +72,12 @@
 
 ### Authentication
 
+### Form
+
+[Formik](https://github.com/jaredpalmer/formik)
+
+[Redux Form](https://github.com/erikras/redux-form/)
+
 ### Validation
 
 ### HTTP
@@ -98,6 +87,10 @@
 [Axios Retry](https://github.com/softonic/axios-retry)
 
 [Axios Mock Adapter](https://github.com/ctimmerm/axios-mock-adapter)
+
+### Non-UI
+
+[Redux Observable](https://github.com/redux-observable/redux-observable)
 
 ### UI
 
@@ -115,3 +108,6 @@
 
 ### Components
 
+[React DnD](https://github.com/react-dnd/react-dnd/)
+
+[React Virtualized](https://github.com/bvaughn/react-virtualized)
