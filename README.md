@@ -114,6 +114,8 @@
 
 [React-Bootstrap](https://github.com/react-bootstrap/react-bootstrap)
 
+[PrimeReact](https://primefaces.org/primereact)
+
 ### Static Site Generator
 
 [Gatsby.js](https://www.gatsbyjs.org/)
