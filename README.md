@@ -82,6 +82,8 @@
 
 ### Authentication
 
+[Auth0 for SPA with PKCE](https://github.com/auth0/auth0-spa-js)
+
 ### Form
 
 [Formik](https://github.com/jaredpalmer/formik)
