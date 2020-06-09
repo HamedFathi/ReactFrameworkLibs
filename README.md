@@ -26,6 +26,8 @@
 
 [React Redux](https://github.com/reduxjs/react-redux)
 
+[React Spinners](https://github.com/davidhu2000/react-spinners)
+
 [Redux Persist](https://github.com/rt2zz/redux-persist)
 
 [Redux Saga](https://github.com/redux-saga/redux-saga)
