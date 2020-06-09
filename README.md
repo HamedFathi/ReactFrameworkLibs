@@ -131,3 +131,5 @@
 [React DnD](https://github.com/react-dnd/react-dnd/)
 
 [React Virtualized](https://github.com/bvaughn/react-virtualized)
+
+[ReactShadow](https://github.com/Wildhoney/ReactShadow)
